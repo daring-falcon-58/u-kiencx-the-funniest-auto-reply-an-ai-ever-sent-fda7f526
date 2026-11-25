@@ -1,0 +1,8 @@
+heartbeat.log
+SUBMIT-READY.md
+SELECTION.md
+kit/
+*-kit/
+kit.tar.gz
+node_modules/
+output/
